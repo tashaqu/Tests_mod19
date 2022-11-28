@@ -1,0 +1,5 @@
+valid_email = "vasya@mail.com"
+valid_password = "12345"
+invalid_email="vasya1664@mail.com"
+invalid_password = "123____=="
+invalid_email_2="vasyamail.com"
